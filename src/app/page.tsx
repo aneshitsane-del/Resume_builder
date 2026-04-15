@@ -76,7 +76,7 @@ export default function LandingPage() {
       <section className="relative z-10 flex flex-col items-center text-center px-6 pt-20 md:pt-32 pb-20">
         <div className="inline-flex items-center gap-2 px-4 py-2 bg-white/5 border border-white/10 rounded-full text-sm text-slate-300 mb-8 backdrop-blur-sm">
           <FiZap className="text-yellow-400" />
-          <span>Free & Open Source Resume Builder</span>
+          <span>Free & Open Source Resume Builder by Anesh Developer</span>
         </div>
 
         <h1 className="text-5xl md:text-7xl font-extrabold leading-tight max-w-4xl">
@@ -218,7 +218,7 @@ export default function LandingPage() {
             <span className="font-semibold">ResumeForge</span>
           </div>
           <p className="text-sm text-slate-500">
-            © {new Date().getFullYear()} ResumeForge. Built with ❤️ using Next.js
+            © {new Date().getFullYear()} ResumeForge. Developed by Anesh Developer with ❤️ using Next.js
           </p>
           <a
             href="https://github.com"
